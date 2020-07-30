@@ -28,6 +28,8 @@ PASSWORD=yourpassword
 python main.py
 ```
 
+- Just a quick tip, you need to tell -s- to start the bot in inbox and -x- will stop the bot from replying.
+
 ### reactor.py will send meme, jokes and use google tts to translate your text to speech.
 
 ```
