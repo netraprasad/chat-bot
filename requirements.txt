@@ -1,3 +1,3 @@
 fbchat
-dotenv
+python-dotenv
 gTTS
